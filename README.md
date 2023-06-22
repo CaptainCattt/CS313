@@ -166,37 +166,6 @@ Hướng phát triển:
 
 # 5. Tài liệu tham khảo
 
-[1] M. H. R. J. L. a. A. J. Sweeney, "Next-term student performance prediction: A recommender
-systems approach," arXiv:1604.01840, 2016.
-[2] A. T. L. W. N. T. T. A. G. a. E.-P. L. Widjaja, "Next-term grade prediction: A machine learning
-approach," (2020): 700..
-[3] A. M. S. a. A. A.-E. Nabil, "Prediction of students’ academic performance based on courses’
-grades using deep neural networks," 140731-140746, IEEE Access 9 (2021).
-[4] "SMOTE for Imbalanced Classification with Python",
-
-"https://machinelearningmastery.com/smote-oversampling-for-imbalanced-
-classification/?fbclid=IwAR0sVHNWFU9bAtvxkRu70qDaR89xhwDHkBA05VwBsiQ0PwoVJ
-
-yBO-MZ6L6I," ( Truy cập lần cuối: 28/05/2023).
-[5] S. &. J. N. Musa Baig, "Stochastic Gradient Descent Algorithm (SGD).," 2022.
-[6] Z. D. D. R. S. a. Q. V. L. Hanxiao Liu, "Pay Attention to MLPs," arXiv:2105.08050, 2021.
-[7] T. S. a. J. Zhu, "Online Bayesian Passive-Aggressive Learning},"
-https://doi.org/10.3389/fpsyg.2021.579183, 2013.
-[8] B. A. Javier, "K-means vs Mini Batch K-means: a comparison," arXiv:1602.02934, 2013.
-[9] D. L. T. L. M. W. Zhiyuan He, "Gradient Boosting Machine: A Survey," arXiv:1908.06951,
-2019.
-[10
-]
-G. G. A. V. A. V. D. A. G. Liudmila Prokhorenkova, "CatBoost: unbiased boosting with
-categorical features," https://doi.org/10.48550/arXiv.1706.09516, 2019.
-[11
-]
-"Scikitlearn," [Online]. Available: https://scikit-learn.org/stable/.
-
-[12
-]
-"Coursera," [Online]. Available: https://www.coursera.org/learn/machine-learning.
-
 
 
 
