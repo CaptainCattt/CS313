@@ -1,2 +1,2 @@
 # CS313
-Khai thác dữ liệu và ứng dụng
+# KHAI THÁC DỮ LIỆU GIÁO DỤC NHẰM DỰ ĐOÁN KẾT QUẢ HỌC TẬP CỦA SINH VIÊN
