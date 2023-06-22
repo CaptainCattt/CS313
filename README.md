@@ -133,5 +133,71 @@ Negative (dự đoán sai).
 - Thuật toán tăng cường: MiniBatchKMeans với hyperparameters: {n_clusters=5, batch_size=300}.
 - Thuật Toán Random Forest kết hợp SMOTE: Hyperparameters: (n_estimators=100, random_state=42)
 
+3.4 Kết quả thực nghiệm
+
+![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/c1877d1c-c5e4-419e-b15c-1b2480f67621)
+
+![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/2955f712-ff8c-4b0a-be0b-693280583267)
+
+# 4. Kết luận và hướng phát triển
+
+Bài toán các yếu tố về nền tảng giáo dục trước đó có thể không thực sự ảnh hưởng
+đến kết quả của điểm trung bình học kì kết quả đạt được từng kì là khác nhau và dao
+động từ 43% - 69.9% với các mô hình SVM, Ensemble, Gradient Boosting. Ngoài ra
+đối với điểm các môn trước (môn cơ sở ngành khác) có thể dự đoán được kết quả môn
+học IT002 đạt kết quả phân loại khá cao với kết quả mô hình Logistic Regression
+95.3982% đối với độ đo accuracy và mô hình Random Forest 76.02% với độ đo f1-
+score. Đối với sinh viên, kết quả dự đoán này có thể giúp họ cải thiện khả năng đạt
+được điểm số tốt trong IT002 bằng cách học tốt trong các môn học cơ sở ngành trước
+đó và tham gia tích cực vào các hoạt động lớp học. Đối với giảng viên, việc dự đoán
+này cung cấp một công cụ hữu ích để xác định những sinh viên có thể cần sự hỗ trợ
+hoặc can thiệp thêm, giúp nâng cao chất lượng giảng dạy. Góp phần vào lĩnh vực khai
+thác dữ liệu giáo dục bằng cách phát triển một phương pháp mới để dự đoán điểm số
+của sinh viên dựa trên các khóa học trước và hiệu suất học tập. Phương pháp này có
+thể giúp cả sinh viên và giảng viên cải thiện kết quả và trải nghiệm học tập của họ.
+
+
+Hướng phát triển:
+- Mở rộng bộ dữ liệu để bao gồm nhiều trường đại học và khóa học.
+- Bổ sung thêm các biến vào mô hình dự đoán, chẳng hạn như các đặc tính cá nhân hoặc điểm phản hồi.
+- Đánh giá hiệu suất của mô hình trong các bối cảnh và kịch bản khác nhau.
+- Thêm các yếu tố tâm lý và tính cách như bài test MBTI để đánh giá một cách khách quan hơn.
+- viên có thể đưa ra những lựa chọn phù hợp dựa trên đánh giá khách quan về điểm số và những thống kê từ các khóa học trước đó.
+
+# 5. Tài liệu tham khảo
+
+[1] M. H. R. J. L. a. A. J. Sweeney, "Next-term student performance prediction: A recommender
+systems approach," arXiv:1604.01840, 2016.
+[2] A. T. L. W. N. T. T. A. G. a. E.-P. L. Widjaja, "Next-term grade prediction: A machine learning
+approach," (2020): 700..
+[3] A. M. S. a. A. A.-E. Nabil, "Prediction of students’ academic performance based on courses’
+grades using deep neural networks," 140731-140746, IEEE Access 9 (2021).
+[4] "SMOTE for Imbalanced Classification with Python",
+
+"https://machinelearningmastery.com/smote-oversampling-for-imbalanced-
+classification/?fbclid=IwAR0sVHNWFU9bAtvxkRu70qDaR89xhwDHkBA05VwBsiQ0PwoVJ
+
+yBO-MZ6L6I," ( Truy cập lần cuối: 28/05/2023).
+[5] S. &. J. N. Musa Baig, "Stochastic Gradient Descent Algorithm (SGD).," 2022.
+[6] Z. D. D. R. S. a. Q. V. L. Hanxiao Liu, "Pay Attention to MLPs," arXiv:2105.08050, 2021.
+[7] T. S. a. J. Zhu, "Online Bayesian Passive-Aggressive Learning},"
+https://doi.org/10.3389/fpsyg.2021.579183, 2013.
+[8] B. A. Javier, "K-means vs Mini Batch K-means: a comparison," arXiv:1602.02934, 2013.
+[9] D. L. T. L. M. W. Zhiyuan He, "Gradient Boosting Machine: A Survey," arXiv:1908.06951,
+2019.
+[10
+]
+G. G. A. V. A. V. D. A. G. Liudmila Prokhorenkova, "CatBoost: unbiased boosting with
+categorical features," https://doi.org/10.48550/arXiv.1706.09516, 2019.
+[11
+]
+"Scikitlearn," [Online]. Available: https://scikit-learn.org/stable/.
+
+[12
+]
+"Coursera," [Online]. Available: https://www.coursera.org/learn/machine-learning.
+
+
+
 
 
