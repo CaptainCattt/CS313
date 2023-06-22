@@ -39,17 +39,25 @@ là dự đoán xem sinh viên có qua môn Lập trình hướng đối tượn
 
 2.1 Các bước tiền xử lý dữ liệu
 - Làm sạch dữ liệu
+  
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/2b9d0344-b3f2-4c94-92f1-4b38f516b399)
+  
 - Tích hợp dữ liệu
+
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/b93edb17-988f-4514-9042-5815b582d0ad)
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/ec79b8a2-02ec-4a80-988a-f963f56d1e5f)
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/44440750-298c-4489-bdbd-a24bce8b2b78)
+  
 - Biến đổi dữ liệu
+
+  
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/81ea3bc9-ade6-4df2-ac46-a1e5345d1a6b)
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/b629be20-9e17-4241-884e-8bf63caab270)
 
   
 - Rút gọn dữ liệu
+
+  
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/c05e149a-d8c7-4f2b-9aa6-2b116ca33991)
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/0ccf5793-46d6-437d-8869-9942f84edcb8)
 
