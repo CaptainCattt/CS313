@@ -123,25 +123,15 @@ Negative (dự đoán sai).
   ![image](https://github.com/CaptainCattt/CS313_PROJECT/assets/133556107/11baf3da-5685-4e16-a101-aab99cf74420)
 
 3.3 Phương pháp thực nghiệm
-− Thuật toán Naive Bayes với hyperparameters: {'var_smoothing': 1e-09}.
-− Thuật toán SVM với hyperparameters: {'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}.
-− Thuật toán Gradient Boosting với hyperparameters: {'learning_rate': 0.01,'max_depth': 5}.
-− Thuật toán Cat Boost với hyperparameters: {iterations = 1500, learning_rate = 0.02,
-depth = 6, l2_leaf_reg = 0.9, class_weight = mảng % phân bố nhãn của các lớp }.
-− Kết hợp giữa các mô hình thuật toán lại với nhau bao gồm (SVM, Logistic
-Regression, Random Forest, KNN, Decision Tree) phương pháp Voting Classifier
-để kết hợp nhiều mô hình với { KNN: n_neighbors=5, Decision Tree: max_depth=5,
-SVM: kernel='rbf', C=1.0, Logistic Regression: solver='liblinear', RandomForest:
-n_estimators=100, max_depth=10}.
-− Thuật toán tăng cường: SGD với hyperparameters: {loss='log',learning_rate =
-'optimal', penalty='elasticnet', max_iter=1000, tol=1e-3, random_state=42}.
-− Thuật toán tăng cường: MLP với hyperparameters: { hidden_layer_sizes=(200,
-200)}.
-− Thuật toán tăng cường: : PassiveAggressive.
-− Thuật toán tăng cường: MiniBatchKMeans với hyperparameters: {n_clusters=5,
-batch_size=300}.
-− Thuật Toán Random Forest kết hợp SMOTE: Hyperparameters: (n_estimators=100,
-random_state=42)
+- Thuật toán Naive Bayes với hyperparameters: {'var_smoothing': 1e-09}.
+- Thuật toán SVM với hyperparameters: {'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}.
+- Thuật toán Gradient Boosting với hyperparameters: {'learning_rate': 0.01,'max_depth': 5}.
+- Thuật toán Cat Boost với hyperparameters: {iterations = 1500, learning_rate = 0.02, depth = 6, l2_leaf_reg = 0.9, class_weight = mảng % phân bố nhãn của các lớp }.
+- Kết hợp giữa các mô hình thuật toán lại với nhau bao gồm (SVM, Logistic Regression, Random Forest, KNN, Decision Tree) phương pháp Voting Classifier để kết hợp nhiều mô hình với { KNN: n_neighbors=5, Decision Tree: max_depth=5, SVM: kernel='rbf', C=1.0, Logistic Regression: solver='liblinear', RandomForest: n_estimators=100, max_depth=10}.Thuật toán tăng cường: SGD với hyperparameters: {loss='log',learning_rate = 'optimal', penalty='elasticnet', max_iter=1000, tol=1e-3, random_state=42}.
+- Thuật toán tăng cường: MLP với hyperparameters: { hidden_layer_sizes=(200, 200)}.
+- Thuật toán tăng cường: : PassiveAggressive.
+- Thuật toán tăng cường: MiniBatchKMeans với hyperparameters: {n_clusters=5, batch_size=300}.
+- Thuật Toán Random Forest kết hợp SMOTE: Hyperparameters: (n_estimators=100, random_state=42)
 
 
 
